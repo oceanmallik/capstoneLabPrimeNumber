@@ -27,9 +27,10 @@ int main()
 
         if (i > 1 && p == 1)
         {
-            printf("%d\n", i);
+            printf("%d ", i);
         }
     }
+    printf("\n");
 
     return 0;
 }
