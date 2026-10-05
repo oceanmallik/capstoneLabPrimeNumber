@@ -1,0 +1,7 @@
+// Excluding everyting
+*
+
+// Including the files to track
+!*.gitignore
+!*.md
+!*.c
